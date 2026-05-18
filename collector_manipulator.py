@@ -1,6 +1,6 @@
 print("Welcome to the student Data Organizer!\n")
 
-print("Select an option:\n","1. Add Student\n","2. Display All Students\n","3. update Student Information\n","4. Delete Student\n","5. Display ubject offered\n","6. Exit")
+print("Select an option:\n","1. Add Student\n","2. Display All Students\n","3. update Student Information\n","4. Delete Student\n","5. Display subject offered\n","6. Exit")
 
 students={}
 
